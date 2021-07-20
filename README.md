@@ -2,8 +2,8 @@
 <div>
         <div>
             <h1>Gabriel Barreto</h1>
-            <p>Analista e Desenvolvedor de Sistemas</p>
-            <p style="font-size: 14pt";>Apaixonado por programação, procuro está sempre antenado com as novidades, adquirindo conhecimento e evoluindo profissionalmente para exercer atividades de desenvolver códigos com qualidade e que venha a suprir as necessidades dos interessados.</p>
+            <h3>Analista e Desenvolvedor de Sistemas</h3>
+            <h4>Apaixonado por programação, procuro está sempre antenado com as novidades, adquirindo conhecimento e evoluindo profissionalmente para exercer atividades de desenvolver códigos com qualidade e que venha a suprir as necessidades dos interessados.</h4>
             <div style="align: right;">
             <img width="450" align="right" src="https://image.freepik.com/vetores-gratis/desenvolvimento-web-engenharia-de-programador-e-site-de-codificacao-em-telas-de-interface-de-realidade-aumentada-desenvolvedor-de-projeto-engenheiro-de-programacao-de-software-ou-design-de-aplicativo-cartoon-illustration_107791-3863.jpg" />
         </div>
