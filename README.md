@@ -1,26 +1,17 @@
 
-<div style="flex: 1;display: flex;flex-direction: row;">
-    <div style="width: 46%;">
-        <h1>Gabriel Barreto</h1>
-        <p>Analista e Desenvolvedor de Sistemas</p>
-        
-        <p>Apaixonado por programação, procuro está sempre antenado com as novidades, adquirindo conhecimento e evoluindo profissionalmente para exercer atividades de desenvolver códigos com qualidade e que venha a suprir as necessidades dos interessados.</p>
-        
-        <p>🏢 Atualmente trabalho na Empresa <a href="https://ingenium-systems.com.br/">Ingenium Systems</a> como Desenvolvedor Full Stack</p>
-
-        <p>⚡ Focado nas Stack ReactJS, Typescript e NextJS</p>
-
-        <p>🚀 Há mais de 5 anos na área de desenvolvimento e trabalhando com Javascript, possuo uma maior experiência em ambientes web(frontend), mas com desenvoltura e pró-atividade de me destacar e consegui se desenvolver em projetos Backend, Mobile</p>
-
-        <p>💪 Espero que em meu GitHub encontre projetos legais e organizados. Todos os projetos foram desenvolvidos com muito amor a profissão, e tentando seguir o maior grau de organização possível o qual encontramos no âmbito profissional, utilizando um pouco das melhores tecnologias disponíveis hoje, tentando ficar mais próximo da realidade do mercado.</p>
-        Contate-me! <br /><br />
-        
-        <a href="https://www.linkedin.com/in/gabriel-barreto-by-dev/"><img src="https://camo.githubusercontent.com/62e08340f4f691d5699db5bab1feaea105e5be7d9e30b6a121e46dc6f29b1cc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f65776572746f6e626e" /></a>
-        <a href="mailto:gabriel.barreto18@hotmail.com"><img width="20" src="data:image/png;base64,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" /></a>
-        
-    </div>
-    <div style="width: 46%;">
-        <img src="https://image.freepik.com/vetores-gratis/desenvolvimento-web-engenharia-de-programador-e-site-de-codificacao-em-telas-de-interface-de-realidade-aumentada-desenvolvedor-de-projeto-engenheiro-de-programacao-de-software-ou-design-de-aplicativo-cartoon-illustration_107791-3863.jpg" />
-    </div>
+<div>
+        <div>
+            <h1>Gabriel Barreto</h1>
+            <p>Analista e Desenvolvedor de Sistemas</p>
+            <p style="font-size: 14pt";>Apaixonado por programação, procuro está sempre antenado com as novidades, adquirindo conhecimento e evoluindo profissionalmente para exercer atividades de desenvolver códigos com qualidade e que venha a suprir as necessidades dos interessados.</p>
+            <div style="align: right;">
+            <img width="450" align="right" src="https://image.freepik.com/vetores-gratis/desenvolvimento-web-engenharia-de-programador-e-site-de-codificacao-em-telas-de-interface-de-realidade-aumentada-desenvolvedor-de-projeto-engenheiro-de-programacao-de-software-ou-design-de-aplicativo-cartoon-illustration_107791-3863.jpg" />
+        </div>
+            <p style="font-size: 22px";>🏢 Atualmente trabalho na Empresa <a href="https://ingenium-systems.com.br/">Ingenium Systems</a> como Desenvolvedor Full Stack</p>
+            <p style="font-size: 12pt";>⚡ Focado nas Stack ReactJS, Typescript e NextJS</p>
+            <p>🚀 Há mais de 5 anos na área de desenvolvimento e trabalhando com Javascript, possuo uma maior experiência em ambientes web(frontend), mas com desenvoltura e pró-atividade de me destacar e consegui se desenvolver em projetos Backend, Mobile. </p>
+            <p>💪 Espero que em meu GitHub encontre projetos legais e organizados. Todos os projetos foram desenvolvidos com muito amor a profissão, e tentando seguir o maior grau de organização possível o qual encontramos no âmbito profissional, utilizando um pouco das melhores tecnologias disponíveis hoje, tentando ficar mais próximo da realidade do mercado.</p>
+            Contate-me!<br /><br />
+            <a href="https://www.linkedin.com/in/gabriel-barreto-by-dev/"><img src="https://camo.githubusercontent.com/62e08340f4f691d5699db5bab1feaea105e5be7d9e30b6a121e46dc6f29b1cc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f65776572746f6e626e"><a/>
+        </div>
 </div>
- 
