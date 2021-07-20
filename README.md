@@ -3,7 +3,7 @@
             <h1>Gabriel Barreto</h1>
             <h3>Analista e Desenvolvedor de Sistemas</h3>
             <p>Apaixonado por programação, procuro está sempre antenado com as novidades, adquirindo conhecimento e evoluindo profissionalmente para exercer atividades de desenvolver códigos com qualidade e que venham a suprir as necessidades dos interessados.</p>
-            <img width="400" align="right" src="https://image.freepik.com/vetores-gratis/desenvolvimento-web-engenharia-de-programador-e-site-de-codificacao-em-telas-de-interface-de-realidade-aumentada-desenvolvedor-de-projeto-engenheiro-de-programacao-de-software-ou-design-de-aplicativo-cartoon-illustration_107791-3863.jpg" />
+            <img width="500" align="right" src="https://image.freepik.com/vetores-gratis/desenvolvimento-web-engenharia-de-programador-e-site-de-codificacao-em-telas-de-interface-de-realidade-aumentada-desenvolvedor-de-projeto-engenheiro-de-programacao-de-software-ou-design-de-aplicativo-cartoon-illustration_107791-3863.jpg" />
             <p style="font-size: 22px";>🏢 Atualmente trabalho na Empresa <a href="https://ingenium-systems.com.br/">Ingenium Systems</a> como Desenvolvedor Full Stack</p>
             <p style="font-size: 12pt";>⚡ Focado nas Stack ReactJS, Typescript e NextJS</p>
             <p>🚀 Há mais de 5 anos na área de desenvolvimento e trabalhando com Javascript, possuo uma maior experiência em ambientes web(frontend), porém com desenvoltura e pró-atividade de me destacar e consegui desenvolver em projetos Backend, Mobile. </p>
